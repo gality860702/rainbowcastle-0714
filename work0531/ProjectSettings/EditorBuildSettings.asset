@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/scene\u96C6/manu.unity"
+    guid: a6a48f21bb6217c468870d38ec3366d6
+  - enabled: 1
+    path: "Assets/Scenes/scene\u96C6/loadgame.unity"
+    guid: 6c58a8f33b2ff9c4fa7effc662fd1a31
+  - enabled: 1
+    path: "Assets/Scenes/scene\u96C6/ani.unity"
+    guid: 3d6bec9cb87f1e6429fbc787becb6a85
+  - enabled: 1
+    path: "Assets/Scenes/scene\u96C6/ani02.unity"
+    guid: c962882e688018748b56079c009bd596
+  - enabled: 1
+    path: "Assets/Scenes/scene\u96C6/ani03.unity"
+    guid: 9f8c7b93358ba764fa2999b56cba6a19
+  - enabled: 1
+    path: "Assets/Scenes/scene\u96C6/anilast.unity"
+    guid: a3e9a9a2a10c4214697a5b9e735cce95
+  - enabled: 1
+    path: "Assets/Scenes/scene\u96C6/startgame.unity"
+    guid: c78332df8c6f184469f8fa07b09a7f08
+  - enabled: 1
+    path: "Assets/Scenes/scene\u96C6/startgame_2.unity"
+    guid: 3170de81882823540a1faf3f7a933878
+  - enabled: 1
+    path: "Assets/Scenes/scene\u96C6/level1_bwall.unity"
+    guid: 46093a0eb170fb64792537b688161ab6
+  - enabled: 1
+    path: "Assets/Scenes/scene\u96C6/level1_bglass.unity"
+    guid: 704afd82e46b1b6479433014cb02532e
+  - enabled: 1
+    path: "Assets/Scenes/scene\u96C6/level1_bwallglass.unity"
+    guid: 31dfa77083cd3c24ca3f567e24553e38
+  - enabled: 1
+    path: "Assets/Scenes/scene\u96C6/level1_ok.unity"
+    guid: ebffdd19a743dcb4f823c6eba7d33c79
+  - enabled: 1
+    path: "Assets/Scenes/scene\u96C6/startgame102.unity"
+    guid: 54f2affd13c74df4e84059be6e3f1810
+  - enabled: 1
+    path: "Assets/Scenes/scene\u96C6/startgame102wrongway.unity"
+    guid: e144ceb31d8ae0d4e926737c5b814419
+  - enabled: 1
+    path: "Assets/Scenes/scene\u96C6/startgame102rightway.unity"
+    guid: 6b98a682c1c4bfe48983a24cab5a2d76
+  m_configObjects: {}
