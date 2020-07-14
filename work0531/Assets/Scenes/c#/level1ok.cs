@@ -10,6 +10,6 @@ public class level1ok : MonoBehaviour
     /// </summary>
     public void backtom()
     {
-        SceneManager.LoadScene("manu");
+        SceneManager.LoadScene("startgame102");
     }
 }
