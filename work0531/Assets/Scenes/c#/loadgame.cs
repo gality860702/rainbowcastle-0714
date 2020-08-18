@@ -12,4 +12,12 @@ public class loadgame : MonoBehaviour
     {
         SceneManager.LoadScene("startgame");
     }
+
+    /// <summary>
+    /// 返回按鈕
+    /// </summary>
+    public void back()
+    {
+        SceneManager.LoadScene("manu");
+    }
 }
